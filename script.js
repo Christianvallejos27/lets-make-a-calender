@@ -17,7 +17,7 @@ $(document).ready(function () {
     $('.notification').addClass('show')
 
     setTimeout(function () {
-      $('.notification').removeClass('.show')
+      $('.notification').removeClass('show')
     }, 3000)
 
   })  
